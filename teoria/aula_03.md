@@ -364,4 +364,130 @@ $$
 \text{similarity}(\mathbf{x}, \mathbf{y}) = \frac{\sum_{k=1}^{n} \delta_k s_k(\mathbf{x}, \mathbf{y})}{\sum_{k=1}^{n} \delta_k}
 $$
 
-> Ficamos aqui
+#### Using Weights to Combine Similarities
+
+
+> TODO: fazer apontamentos slides
+
+## CRISP-DM
+> TODO: fazer apontamentos slides
+
+* Standard para processos de data mining 
+
+> ![alt text](img/image-25.png)
+> Pedir a LLM para explicar de forma simples cada passo
+
+## Date Preprocessing 
+
+* Aggregation
+    * Mean, standard deviation, ...
+* Sampling
+* Discretization and Binarization
+* Attribute Transformation
+* Dimensionality Reduction
+    * Reduzir o número de atributtes
+* Feature subset selection
+* Feature creation
+
+> Existem vários métodos para fazer os pontos acima (procurar alguns exemplos)
+
+### Aggregation
+
+* Combina dois ou mais attributes (objetos) num único atributo (ou objeto)
+attribute (or object)
+
+
+> Nota: ter cuidado porque podemos "perder" informação de outliers
+
+> TODO : fazer apontamentos dos slides, e ver exemplos de agregação
+
+> No exemplo, vemos que o gráfico gerado para dados mensais e anuais permite obter a mesma informação (e permite poupar espaço, so precissamos de guardar anos invez de meses)
+
+
+### Sampling
+
+* Serve para reduzir o número de pontos (instâncias)
+
+> TODO : fazer apontamentos dos slides, e ver exemplos de sampling
+
+> No exemplo, vemos que diferentes quantidade de pontos mantém +/- a mesma distribuição
+
+> Ter cuidado com oversampling, porque pode levar a criação de objetos "inválidos" (professora recomenda undersampling, mas depende do dominio que estamos a falar)
+
+#### Types of Sampling 
+
+* Simple Random Sampling
+* Stratified sampling
+
+#### Sample size 
+
+> Perceber o que o grafico esta a representar (acho que no livro tem a descrição completa)
+
+
+### Discretization
+
+* Discretization é o processo de converter continuous attribute num ordinal attribute
+
+
+#### Unsupervised Discretization
+
+> ver slides e perceber o que esta a representar. As linhas separam os dados em "buckets". Fazer apontamentos sobre cada um das formas de Unsupervised Discretization
+
+
+#### Discretization in Supervised Settings
+
+> Supervised significa que temos uma target variable
+
+> ver figuras nos slides e perceber 
+
+
+### Binarization
+
+
+* Mapas de binarização de continuous ou  categorical attributes em uma ou mais variáveis binárias
+
+> Ver tabela com exemplo de conversão binária de categorical attributes (no caso de continuous attributes, só precissamos de 3 bits para representar 0,1,2,3,4 )
+
+
+### Attribute Transformation
+
+> Fazer apontamentos slides 
+
+> Ver exemplo e perceber o que aconteceus antes e depois da normalização e como isso afetou o significado do correlação
+
+
+## Curse of Dimensionality
+
+> Todo : fazer apontamentos nos slides 
+
+
+### Dimensionality Reduction
+
+> Todo : fazer apontamentos nos slides
+
+
+
+### Dimensionality Reduction: PCA 
+
+> Todo : fazer apontamentos nos slides
+
+> PCA (perceber o que é/como funciona/para que serve). Arranjar o exemplo 
+
+
+
+## Feature Subset Selection
+
+* Outra forma de reduzir a dimensionalidade dos dados 
+
+> Todo : fazer apontamentos nos slides, procurar alguns deste métodos 
+
+
+## Feature Creation
+
+> Todo : fazer apontamentos nos slides
+
+> e.g. Height + Weight => BMI (substituimos altura e peso por BMI)
+
+### Mapping Data to a New Space 
+
+> perceber o que esta a ser feito (pedir LLM)
