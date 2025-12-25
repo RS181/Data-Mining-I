@@ -207,3 +207,7 @@ different from (or unrelated to) the objects in other groups
 
 
 ###### Limitations of K-means: Non-globular Shapes
+
+
+
+> Professora disse para ver os restantes slides, mas não deu-os em aula
