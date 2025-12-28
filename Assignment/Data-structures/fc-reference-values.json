@@ -1,0 +1,20 @@
+{
+  "2": { "bpm_minimo": 80.0, "bpm_maximo": 130.0 },
+  "3": { "bpm_minimo": 80.0, "bpm_maximo": 120.0 },
+  "4": { "bpm_minimo": 80.0, "bpm_maximo": 120.0 },
+  "5": { "bpm_minimo": 75.0, "bpm_maximo": 115.0 },
+  "6": { "bpm_minimo": 75.0, "bpm_maximo": 115.0 },
+  "7": { "bpm_minimo": 70.0, "bpm_maximo": 110.0 },
+  "8": { "bpm_minimo": 70.0, "bpm_maximo": 110.0 },
+  "9": { "bpm_minimo": 70.0, "bpm_maximo": 110.0 },
+  "10": { "bpm_minimo": 60.0, "bpm_maximo": 100.0 },
+  "11": { "bpm_minimo": 60.0, "bpm_maximo": 100.0 },
+  "12": { "bpm_minimo": 60.0, "bpm_maximo": 100.0 },
+  "13": { "bpm_minimo": 60.0, "bpm_maximo": 100.0 },
+  "14": { "bpm_minimo": 60.0, "bpm_maximo": 100.0 },
+  "15": { "bpm_minimo": 60.0, "bpm_maximo": 100.0 },
+  "16": { "bpm_minimo": 60.0, "bpm_maximo": 100.0 },
+  "17": { "bpm_minimo": 60.0, "bpm_maximo": 100.0 },
+  "18": { "bpm_minimo": 60.0, "bpm_maximo": 100.0 },
+  "19": { "bpm_minimo": 60.0, "bpm_maximo": 100.0 }
+}
