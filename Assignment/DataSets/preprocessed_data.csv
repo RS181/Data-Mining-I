@@ -1,4 +1,4 @@
-Peso (kg),Altura (cm),IMC,Idade,Pulsos,SystolicPressure,DystolicPressure,Result SBP-DBP,Second Heart Sound (S2),Sopro,FC (bpm),Current Disease History 2 (CDH2),HDA2,Sexo,Razão Principal,Razão Secundária,Intervalo Idade,Percentil IMC,Systolic Blood Pressure (SBP),Diastolic Blood Pressure (DBP),Patologia
+Peso,Altura,IMC,Idade,Pulsos,SBP,DBP,Result SBP-DBP,B2,Sopro,FC,HDA1,HDA2,Sexo,Motivo1,Motivo2,Intervalo Idade,Percentil IMC,Systolic Blood Pressure (SBP),Diastolic Blood Pressure (DBP),Patologia
 39.5,142,19.59,9,Normal,85.0,50.0,Normal,Normal,Ausente,90.0,Assintomático,Assintomático,Masculino,Triagem Cardiológica,Atividade física,School,Overweigth,Normal,Normal,Anormal
 26.0,112,20.73,4,Normal,100.0,60.0,Normal,Fixed Split,Ausente,100.0,Assintomático,Assintomático,Masculino,Checkup de rotina,Outros,Pre-School,Obese,Normal,Normal,Anormal
 28.0,117,20.45,5,Normal,110.0,65.0,Pre-hipertenso,Normal,Ausente,80.0,Assintomático,Assintomático,Feminino,Triagem Cardiológica,Cirurgia,Pre-School,Obese,Normal,Normal,Anormal
